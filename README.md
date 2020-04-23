@@ -1,4 +1,5 @@
 # 10fastfingers-AutoFinish
+Copy-paste this in your browser console to get maximal words per minute
 https://10fastfingers.com/typing-test/traditional-chinese
 如何使用：
 案右鍵→檢查→console
